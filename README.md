@@ -1,4 +1,4 @@
-# DSP_MRMTP
+# DSP1_MRMTP
 Contains files of projects I did related to digital signal processing.
 ## Overview
 
